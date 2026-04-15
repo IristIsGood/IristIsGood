@@ -28,13 +28,12 @@ I'm a **Full Stack Engineer** specializing in **AI Platforms** and scalable back
 
 ## 📈 Current Focus
 * 🛠 **RAG Optimization:** Refining retrieval mechanisms for high-accuracy AI responses.
-* 🇰🇷 **Language Acquisition:** Enhancing proficiency in **Korean** and professional **English**.
 * 🏛 **Systems Design:** Exploring structured life-management frameworks and clean architecture.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IristIsGood&show_icons=true&theme=dark)
 
 ## 📬 Let's Connect
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [linkedin.com/in/irist-oon-17071997/](https://www.linkedin.com/in/irist-oon-17071997/)
 * **GitHub:** [github.com/IristIsGood](https://github.com/IristIsGood)
 * **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
