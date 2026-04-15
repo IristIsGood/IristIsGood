@@ -10,6 +10,7 @@ I am a **Full Stack Engineer** with a deep foundation in Java-based enterprise s
 
 ### **Frameworks & Infrastructure**
 * **Backend:** Spring Boot, Node.js, Django, Flask
+- **Frontend:** React, Angular, Vue.js
 * **Data:** PostgreSQL, TimescaleDB (Time-Series), MongoDB
 * **Cloud & DevOps:** Docker, AWS, Git
 
