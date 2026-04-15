@@ -32,9 +32,8 @@ I am a **Full Stack Engineer** with a deep foundation in Java-based enterprise s
 * 🏛 **Systems Design:** Exploring structured life-management frameworks and clean architecture.
 
 ## 📊 GitHub Stats
-![Irist's GitHub stats](https://github-readme-stats.vercel.app/api?username=IristIsGood&show_icons=true&theme=dark&hide_border=true&align=center)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IristIsGood&layout=compact&theme=dark&hide_border=true&align=center)
+![Irist's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IristIsGood&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IristIsGood&theme=dark)
 
 ## 📬 Let's Connect
 * **LinkedIn:** [linkedin.com/in/irist-oon-17071997/](https://www.linkedin.com/in/irist-oon-17071997/)
