@@ -1,6 +1,6 @@
 # Hi, I'm Irist 👋
 
-I'm a **Full Stack Engineer** specializing in **AI Platforms** and scalable backend architectures. I have a strong focus on **Retrieval-Augmented Generation (RAG)** and polyglot development.
+I am a **Full Stack Engineer** with a deep foundation in Java-based enterprise systems, currently specializing in the architecture of **AI Platforms**.
 
 ## 🛠 Tech Stack
 
