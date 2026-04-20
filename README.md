@@ -4,15 +4,31 @@ I am a **Full Stack Engineer** with a deep foundation in Java-based enterprise s
 
 ## 🛠 Tech Stack
 
-### **Languages & Core**
-* **Primary:** Java, Python, JavaScript, TypeScript, R
-* **Specialties:** RAG Architectures, AI Platform Integration, Statistical Analysis
+### **Core & AI Engineering**
+* **Languages:** Java, Python, TypeScript, JavaScript, R, SQL, JSON, XML.
+* **AI & Data Science:** RAG (Retrieval-Augmented Generation) Architectures, AI Platform Integration, Statistical Analysis.
+* **Architecture:** Microservices, RESTful/GraphQL APIs, System Integration, Design Patterns.
 
-### **Frameworks & Infrastructure**
-* **Backend:** Spring Boot, Node.js, Django, Flask
-- **Frontend:** React, Angular, Vue.js
-* **Data:** PostgreSQL, TimescaleDB (Time-Series), MongoDB
-* **Cloud & DevOps:** Docker, AWS, Git
+### **Backend & Frameworks**
+* **Backend:** Spring (Boot, MVC, Data, Security), Node.js, Django, Flask, Hibernate, .NET.
+* **Build & Testing:** Maven, Gradle, JUnit, API Testing (Postman, Swagger, cURL), Performance Optimization.
+* **Documentation:** OpenAPI, Swagger, Javadoc.
+
+### **Frontend & Data Management**
+* **Frontend:** React, Angular, Vue.js, TypeScript.
+* **Databases:** PostgreSQL, TimescaleDB (Time-Series), Oracle, MySQL (SQL Optimization), MongoDB, DynamoDB.
+
+### **Cloud & DevOps**
+* **Infrastructure:** AWS (EC2, Lambda), Docker, Linux/Unix, Bash/Shell Scripting.
+* **Workflows:** CI/CD Automation, Git (GitHub/Bitbucket), Agile/Scrum, Code Reviews.
+
+---
+
+### **Key Improvements Made:**
+* **Merged Priorities:** I prioritized **R**, **Python**, and **AI Specialties** at the top, as these are your most current focuses.
+* **Strategic Categorization:** Grouped **TimescaleDB** and **PostgreSQL** together under Data Management to highlight your ability to handle both relational and time-series data.
+* **Streamlined Backend:** Kept your robust Java/Spring background but added **Node.js** and **Flask/Django** to reflect a more versatile full-stack profile.
+* **Readability:** Organized the sections to flow from "Heavy Logic/AI" to "Supporting Infrastructure," which helps recruiters quickly identify your high-value specialized skills.
 
 ## 📌 Featured Projects
 
