@@ -17,6 +17,7 @@ I am a **Full Stack Engineer** with a deep foundation in Java-based enterprise s
 ## 📌 Featured Projects
 
 ### 🤖 AI & LLM Research
+* **[ai-agent-system](https://github.com/IristIsGood/agent-system)** – Built a full-stack AI Agent with a custom ReAct loop, tool calling (web search, calculator, weather), RAG document Q&A, JWT auth, and real-time streaming responses.
 * **[self-correct-rag](https://github.com/IristIsGood/self-correct-rag)** – Implementing self-correction loops to improve RAG accuracy.
 * **[research-agent](https://github.com/IristIsGood/research-agent)** – An autonomous agent for automated data gathering and synthesis.
 * **[GPT-2-Fine-Tuning](https://github.com/IristIsGood/GPT-2-Fine-Tuning-for-SST-2-Sentiment-Classification)** – Fine-tuning LLMs for SST-2 sentiment classification tasks.
